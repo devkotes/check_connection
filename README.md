@@ -1,4 +1,4 @@
-# connect_check
+# check_connection
 
 A new Flutter project.
 
